@@ -1,0 +1,9 @@
+D:\DOTNET_PROJ\FindPath\bin\Debug\FindPath.exe.config
+D:\DOTNET_PROJ\FindPath\bin\Debug\FindPath.exe
+D:\DOTNET_PROJ\FindPath\bin\Debug\FindPath.pdb
+D:\DOTNET_PROJ\FindPath\obj\Debug\FindPath.csprojAssemblyReference.cache
+D:\DOTNET_PROJ\FindPath\obj\Debug\FindPath.Form1.resources
+D:\DOTNET_PROJ\FindPath\obj\Debug\FindPath.Properties.Resources.resources
+D:\DOTNET_PROJ\FindPath\obj\Debug\FindPath.csproj.GenerateResource.cache
+D:\DOTNET_PROJ\FindPath\obj\Debug\FindPath.exe
+D:\DOTNET_PROJ\FindPath\obj\Debug\FindPath.pdb
